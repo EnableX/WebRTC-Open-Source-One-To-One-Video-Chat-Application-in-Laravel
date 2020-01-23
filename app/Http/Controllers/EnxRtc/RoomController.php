@@ -40,7 +40,7 @@ class RoomController extends Controller
             "owner_ref" => $random_name,
             "settings" => array(
                 "description" => "",
-                "quality" => "HD",
+                "quality" => "SD",
                 "mode" => "group",
                 "participants" => "2",
                 "duration" => "60",
