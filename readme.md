@@ -1,13 +1,12 @@
-# 1-to-1 RTC: A Sample Web App using Laravel (PHP Framework) and EnableX Web Toolkit
+# Building a 1-to-1 Real-Time Communication Web App with Laravel (PHP Framework) and EnableX Web Toolkit
 
-The Sample Web App demonstrates the use of APIs for EnableX platform to carry out 1-to-1 RTC (Real Time Communication). The main motivation behind this application is to demonstrate usage of APIs and allow developers to ramp up on app by hosting on their own devices instead of directly using servers.
+1-to-1 RTC Web App: Laravel (PHP Framework) and EnableX Web Toolkit 
 
-RTC Applications hosted on EnableX platform run natively on supported set of web browsers without any additional plugin downloads. 
+Experience a Sample Web App that showcases the usage of EnableX platform APIs for seamless 1-to-1 RTC (Real-Time Communication). This application aims to demonstrate API usage while enabling developers to accelerate app development by hosting it on their personal devices instead of relying on external servers. 
 
-This basic 1-to-1 Video Chat Application is developed using HTML, CSS, Bootstrap, JavaScript, jQuery, Laravel and EnxRtc (The EnableX Web Toolkit).
+RTC Applications hosted on the EnableX platform are fully compatible with supported web browsers, eliminating the need for additional plugin downloads. 
 
->The details of the supported set of web browsers can be found here:
-https://developer.enablex.io/video/browser-compatibility-of-enablex-video/
+This basic 1-to-1 Video Chat Application is meticulously crafted using HTML, CSS, Bootstrap, JavaScript, jQuery, Laravel, and EnxRtc (EnableX Web Toolkit) 
 
 ## 1. Important!
 
