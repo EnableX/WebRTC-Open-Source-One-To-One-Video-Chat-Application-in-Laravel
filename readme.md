@@ -14,7 +14,7 @@ When developing a Client Application with EnxRtc.js make sure to include the upd
 
 ## 2. Trial
 
-Sign up for a free trial https://portal.enablex.io/cpaas/trial-sign-up/ or try our multiparty video chat https://try.enablex.io/
+Sign up for a free trial https://www.enablex.io/free-trial/ or try our multiparty video chat https://try.enablex.io/
 
 ## 3. Installation
 
@@ -22,7 +22,7 @@ Sign up for a free trial https://portal.enablex.io/cpaas/trial-sign-up/ or try o
 
 #### 3.1.1 App Id and App Key
 
-* Register with EnableX [https://portal.enablex.io/cpaas/trial-sign-up/] 
+* Register with EnableX https://www.enablex.io/free-trial/ 
 * Create your Application
 * Get your App ID and App Key delivered to your Email
 * Clone or download this Repository [https://github.com/EnableX/WebRTC-Open-Source-One-To-One-Video-Chat-Application-in-Laravel.git] & follow the steps further 
@@ -66,7 +66,7 @@ meeting rooms. API Access is given to each Application through the assigned App 
 are to be used as Username and Password respectively to pass as HTTP Basic Authentication header to access Server API.
 
 For this application, the following Server API calls are used:
-* https://developer.enablex.io/video-api/server-api/rooms-route/#create-room - To create room to carry out a video session
+* https://developer.enablex.io/docs/references/apis/video-api/content/api-routes/#create-a-room - To create room to carry out a video session
 * https://developer.enablex.io/video-api/server-api/rooms-route/#create-token - To create Token for the given Room to join a session
 
 To know more about Server API, go to:
@@ -78,4 +78,4 @@ https://developer.enablex.io/video-api/server-api/
 Client End Point Application uses Web Toolkit EnxRtc.js to communicate with EnableX Servers to initiate and manage RTC Communications.
 
 To know more about Client API, go to:
-https://developer.enablex.io/video-api/client-api/
+https://developer.enablex.io/docs/references/sdks/video-sdk/web-sdk/index/
